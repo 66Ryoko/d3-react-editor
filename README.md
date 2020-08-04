@@ -1,1 +1,1 @@
-# d3_react_editor
+# d3-react-editor
